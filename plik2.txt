@@ -4,3 +4,4 @@ cmkfkd
 dfdfvf
 Pogoda
 Deszcz
+Slonce
